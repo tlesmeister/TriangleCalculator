@@ -1,4 +1,4 @@
-HTML Code
+<!-- HTML Code -->
 <article class="col-md-4">
     <p>This calculation is taking the width and multiplying it by the height dividing it by two. </p>
     <div>
@@ -12,7 +12,7 @@ HTML Code
     <span id="triangleOutput"></span>
 </article>
                 
-JavaScript Code
+//JavaScript Code
 function triangleCalculator() {
     let height = document.getElementById('tbTriangleHeight').value;
     let width = document.getElementById('tbTriangleWidth').value;
